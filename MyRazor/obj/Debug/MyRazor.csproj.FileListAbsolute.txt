@@ -1,0 +1,4 @@
+E:\MyProject\DemoTemplate\ZazorTesting\MyRazor\bin\Debug\MyRazor.dll
+E:\MyProject\DemoTemplate\ZazorTesting\MyRazor\bin\Debug\MyRazor.pdb
+E:\MyProject\DemoTemplate\ZazorTesting\MyRazor\obj\Debug\MyRazor.dll
+E:\MyProject\DemoTemplate\ZazorTesting\MyRazor\obj\Debug\MyRazor.pdb
